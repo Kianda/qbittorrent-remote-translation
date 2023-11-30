@@ -11,6 +11,7 @@ Server Push is currently an experimental feature and there is no guarantee that 
 Necessary prerequisites:
 1. You can access Google smoothly in your area (because the push service provided by Firebase is used)
 2. The running environment of your qBittorrent server has programs that can access the network such as curl. If your system does not have it, it is recommended to install [curl](https://curl.se/). The following steps will use curl as an example
+3. Ensure that inside the "qBittorrent Remote" app on your phone the notifications are enabled/allowed
 
 If you are sure that the above prerequisites are met, then we continue with the following steps:
 1. Generate a user on the App
